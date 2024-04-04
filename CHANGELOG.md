@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/zylon-ai/private-gpt/compare/v0.5.0...v0.5.1) (2024-04-04)
+
+
+### Bug Fixes
+
+* **llm:** special tokens and leading space ([#1831](https://github.com/zylon-ai/private-gpt/issues/1831)) ([347be64](https://github.com/zylon-ai/private-gpt/commit/347be643f7929c56382a77c3f45f0867605e0e0a))
+
 ## [0.5.0](https://github.com/zylon-ai/private-gpt/compare/v0.4.0...v0.5.0) (2024-04-02)
 
 
